@@ -9,6 +9,7 @@ An interactive number guessing game developed using HTML, CSS, and JavaScript.
 - 🎉 Instant feedback with interactive messages
 - 💻 Responsive and user-friendly interface
 - 🌙 Modern glassmorphism design
+- 🎯 Simple and interactive gameplay
 
 ## 🛠️ Technologies Used
 
